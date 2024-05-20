@@ -1,0 +1,27 @@
+{
+	"id": "9cf83164-e08c-4c88-a077-26a7c878ecbc",
+	"name": "Conduit test",
+	"values": [
+		{
+			"key": "Token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMTM2fSwiaWF0IjoxNzE1NzAyMzg3LCJleHAiOjE3MjA4ODYzODd9.G7h1jIRUgPX4D1eyuci7fmwEaFfsUfFyksM1MmxI2VM",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "BaseURL",
+			"value": "https://conduit-api.bondaracademy.com/api",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ArticleName",
+			"value": "Test-Article-title-from-postman-3136",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-05-15T14:37:03.633Z",
+	"_postman_exported_using": "Postman/11.0.6"
+}
